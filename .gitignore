@@ -218,3 +218,10 @@ back/
 # Add Trivy space work
 trivy/
 #.sonar/
+
+# Configuration files
+.pre-commit-config.yaml
+pyproject.toml
+requirements/dev-*
+
+trash/
